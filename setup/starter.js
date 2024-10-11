@@ -1,7 +1,7 @@
 module.exports = {
     tk: [
-        "ODc0ODk4NDIyMjMzMTc4MTQy.",   // Token 1
-        "MTE5MTM4NDQ3MzM4MDU4OTYwOA"   // Token 2
+        "MTAxNjc2MTg4ODYxMDIwNTc0Ng.",   // Token 1
+        "GWHzWt.tUZ2bKOEbbdVx7GvWfHhAar7GXub4_d2n4XcxY"   // Token 2
     ],
     config: require("./config.json")
 };
