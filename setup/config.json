@@ -5,7 +5,7 @@
     },
   "config": {
     "options": {
-      "watch-url": ["https://www.twitch.tv/4levy_z1"],
+      "watch-url": ["https://discord.gg/yaeshrinee03"],
       "timestamp": "{end:1719680400}"
         },
         "text-1": [
@@ -66,27 +66,27 @@
             },
             {
                 "name": "MI",
-                "url": "https://discord.gg/TSdpyMMfrU"
+                "url": "https://discord.gg/yaeshrinee03"
             },
             {
                 "name": "MIY",
-                "url": "https://discord.gg/TSdpyMMfrU"
+                "url": "https://discord.gg/yaeshrinee03"
             },
             {
                 "name": "MIYA",
-                "url": "https://discord.gg/TSdpyMMfrU"
+                "url": "https://discord.gg/yaeshrinee03"
             },
             {
                 "name": "MIYAK",
-                "url": "https://discord.gg/TSdpyMMfrU"
+                "url": "https://discord.gg/yaeshrinee03"
             },
             {
                 "name": "MIYAKO",
-                "url": "https://discord.gg/TSdpyMMfrU"
+                "url": "https://discord.gg/yaeshrinee03"
             },
             {
                 "name": "MIYAKO ",
-                "url": "https://discord.gg/TSdpyMMfrU"
+                "url": "https://discord.gg/yaeshrinee03"
             },
             {
                 "name": "MIYAKO V",
@@ -100,7 +100,7 @@
         "button-2": [
             {
                 "name": "Stream status > Deobf",
-                "url": "https://github.com/4levy/Streaming-status"
+                "url": "https://github.com/desktopth/Streaming-status"
             }
         ]
     }
