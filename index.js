@@ -561,7 +561,6 @@ class ModClient extends Client {
 
     console.clear();
     console.log("[+] STREAMING : 2.1.4ccc - 18:10 10/8/2024 | deobf version".blue);
-    console.log(`[+] TOKENS : ERROR still working btw just lazy to add`.blue);
     console.log(`[+] ✨ | Premium user | SUPPORT?? | nyaa!! `.blue);
     console.log(`[+] Deobf ก็ยากอยู่นะ | ใช้เวลาไป 1 ชั่วโมง 50 นาที 😭`.green);
     console.log(" ↓ ".white);
